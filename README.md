@@ -25,8 +25,10 @@ Apply the erosion operation on the image using cv2.erode() with the defined stru
 
 ## Developed by: Ranjan K
 ## Reg No.:212222230116
+
 # Create the Text using cv2.putText
-```pyhton
+
+```python
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
@@ -55,6 +57,7 @@ plt.axis('off')
 # Display all results
 plt.show()
 ```
+
 <img width="349" alt="Screenshot 2024-10-05 at 11 50 55 AM" src="https://github.com/user-attachments/assets/a5a1d5bc-bbab-40f4-b2ae-f798b832ccb7">
 
 
